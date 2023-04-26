@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Oleksii 👋
 
-<!--
-**DJlabuh/DJlabuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am currently studying at GoIT. Here, I share my projects and research, which are the result of my studies and passions.
 
-Here are some ideas to get you started:
+## My Projects
+Here are some projects I am currently working on or proud of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[WebStudio](https://github.com/DJlabuh/goit-markup-hw-08)
+[Photo search](https://github.com/DJlabuh/goit-js-hw-11)
+
+## Team projects
+Projects that I worked on as a team developer:
+[IceCream](https://github.com/NikitaLan/13fom_icecream)
+[Filmoteka](https://github.com/NikitaLan/Filmfix13)
+
+## Get in Touch
+If you have any questions or comments, please feel free to get in touch with me:
+
+Email: [djlabuh@gmail.com
+LinkedIn: [view profile](https://www.linkedin.com/in/oleksii-leshchenko-028a89159/)
+
+Thanks for visiting my GitHub profile!
