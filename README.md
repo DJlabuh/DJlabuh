@@ -16,7 +16,7 @@ Projects that I worked on as a team developer:
 ## Get in Touch
 If you have any questions or comments, please feel free to get in touch with me:
 
-Email: djlabuh@gmail.com
-LinkedIn: [view profile](https://www.linkedin.com/in/oleksii-leshchenko-028a89159/)
++ Email: djlabuh@gmail.com
++ LinkedIn: [view profile](https://www.linkedin.com/in/oleksii-leshchenko-028a89159/)
 
 Thanks for visiting my GitHub profile!
