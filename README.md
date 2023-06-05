@@ -46,3 +46,4 @@ If you have any questions or comments, please feel free to get in touch with me:
 [![DJlabuh GitHub stats](https://github-readme-stats.vercel.app/api?username=DJlabuh&show_icons=true&theme=algolia)](https://github.com/DJlabuh/github-readme-stats)
 
 Thanks for visiting my GitHub profile!
+![](https://komarev.com/ghpvc/?username=DJlabuh)
