@@ -43,6 +43,6 @@ If you have any questions or comments, please feel free to get in touch with me:
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-[![DJlabuh GitHub stats](https://github-readme-stats.vercel.app/api?username=DJlabuh&show_icons=true&theme=dark)](https://github.com/DJlabuh/github-readme-stats)
+[![DJlabuh GitHub stats](https://github-readme-stats.vercel.app/api?username=DJlabuh&show_icons=true&theme=algolia)](https://github.com/DJlabuh/github-readme-stats)
 
 Thanks for visiting my GitHub profile!
