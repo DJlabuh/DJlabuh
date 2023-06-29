@@ -30,6 +30,10 @@ If you have any questions or comments, please feel free to get in touch with me:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Rest API](https://img.shields.io/badge/REST_API-0096D6?style=for-the-badge&logo=rest&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
 
 [![DJlabuh GitHub stats](https://github-readme-stats.vercel.app/api?username=DJlabuh&show_icons=true&theme=algolia)](https://github.com/DJlabuh/github-readme-stats)
 
